@@ -2,68 +2,62 @@
 [
 	{
         "name": "Tiramisu",
-        "ingredients": "6 egg yolks \n2/3 cup milk \n3/4 cup sugar \n1 Packet of Ladies Finger Biscuit \n1/2 Cup Baileys \nCocoa Powder to dust  ",
+        "ingredients": "6 Egg yolks \n2/3 Cup Milk \n3/4 Cup Caster Sugar \n1 Packet of Ladies Finger Biscuit \n1/2 Cup Baileys \nCocoa Powder to dust  ",
         "steps":  "1. Mix the egg yolks and sugar.\n2.Slowly whisk the milk in over low heat.\n3. Cook the custard mixture until it is bubbling slightly and leave it to cool.\n3. Once cooled, refrigerate for at least an hour.\n 4.Mix the Mascarpone with the custard mixture and add in baileys to taste.\n5.Dip the biscuit with coffee and layer the biscuit and Mascarpone Layer.\n6.Leave to set in the fridge for at least 5 hours before dusting cocoa powder and consuming",
         "imageURL": "https://imgur.com/MMRDzzY.jpg"
     },
 	{
         "name": "Red Velvet Cheesecake Brownies",
-        "ingredients": "1/2 cup unsalted butter \n3/4 cup sugar \n2 eggs \n3/4 cup flour\n3 Tbsp Cocoa Powder \n1 Tsp Vanilla Extract \n2 Tsp Red Food Colouring \n8 Oz Cream Cheese \n1 Egg \n2 Tbsp Sugar \n1 Tsp Vanilla Extract   ",
-        "steps": "1. Grase a square baking tray and preheat the oven to 170 Degrees. \n2. Cream the butter and sugar together, and add the 2 eggs and beat well. \n3. Add the cocoa powder and fold in with the butter and sugar mixture. \n4. Add in the red colouring and mix, followed by the flour and fold in.  \n5. Pour 3/4 of the batter into the greased tray. \n6. Mix the cream cheese, sugar egg and vanilla extract to a creamy texture, and pour it over the greased tray. \n7. Add in the remaining 1/4 batter onto the top and with a chopstick, swirl patterns to create a ripple effect. \n8. Bake the brownies for 30 minutes or until a skewer comes out clean. " ,
+        "ingredients": "1/2 Cup Unsalted butter \n3/4 Cup Caster Sugar, with 2 additional Tbsp Caster Sugar \n3 Eggs \n3/4 Cup All-Purpose Flour\n3 Tbsp Cocoa Powder \n1 Tsp Vanilla Extract \n2 Tsp Red Food Colouring \n8 Oz Cream Cheese  ",
+        "steps": "1. Grase a square baking tray and preheat the oven to 170 Degrees. \n2. Cream the butter and 3/4 cup of caster sugar together, and add the 2 eggs and beat well. \n3. Add the cocoa powder and fold in with the butter and sugar mixture. \n4. Add in the red colouring and mix, followed by the flour and fold in.  \n5. Pour 3/4 of the batter into the greased tray. \n6. Mix the cream cheese, sugar egg and vanilla extract to a creamy texture, and pour it over the greased tray. \n7. Add in the remaining 1/4 batter onto the top and with a chopstick, swirl patterns to create a ripple effect. \n8. Bake the brownies for 30 minutes or until a skewer comes out clean. " ,
        	"imageURL": "https://imgur.com/CDgz5k8.jpg"
     },
 	{
 	"name": "Panna Cotta",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod ",
+	"ingredients": "1/2 Cup Heavy cream \n1/2 Cup Caster Sugar \n3 Gelatine Leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod ",
 	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
 	"imageURL": "https://imgur.com/wSbaYY1.jpg"
 	},
 	{
 	"name": "Lemon Drizzle Cake",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "225g Unsalted Butter \n200g Caster Sugar \n4 Eggs \n225g Self-Raising Flour \nZest of 1 Lemon \n3/2 Cup Icing Sugar \n3 1/2 Tbsp Lemon Juice ", 
+	"steps": "1. Heat oven to 180 Degrees. \n2. Cream the butter and sugar together, then gradually add the 4 eggs in and mix well. \n3. Sift in the flour, add in the zest and then fold the mixture till a smooth consistent batter is obtained. \n4. Grease a loaf tin and pour in the batter and lightlty tap the loaf tin to knock out any air bubbles to prevent any cracks from forming upon baking. \n5. Bake for 45-50 minutes until a skewer comes out clean. \n6. While the cake is cooling, mix the icing sugar and the lemon juice together to form a thick sauce to drizzle on the top of the cake when it has fully cooled.",
 	"imageURL": "https://imgur.com/1x1ud2F.jpg"
 	},
 	{
-	"name": "Cupcakes With Butter Sugar Icing",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
-	"imageURL": "https://imgur.com/OsxSDFp.jpg"
-	},
-	{
 	"name": "Mocha Hazelnut Cake",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "250g Plain Chocolate \n150g Caster Sugar \n225g Unsalted Butter \n5 Eggs \n100g Ground Hazelnut \n100g Self-Raising Flour \n1 Tsp Baking Powder \n7 Tbsp strong Black Coffee \n4 Tbsp Double cream \n50g Icing Sugar \n50g Toasted Hazelnuts roughly chopped", 
+	"steps": "1. Heat oven to 180 Degrees. \n2. Using a Bain Marie(hot water bath), place 150g of chocolate and 4 tbsp of coffee and melt them, until a smooth sauce consistency is obtained and leave to cool. \n3. Cream 175g of sugar and butter together, then gradually add the eggs in. \n4. Add the cooled mocha mixture into the butter mixture and fold it in nicely. \n5. Pour the mixture into a greased cake tin and bake for 45-55 minutes until a skewer comes out clean. \n6. For the filling, add the remaining butter, chocolate and coffee and mix them with the cream and icing sugar over low heat until a smooth icing is obtained. \n7. When the cake is cooled, pour the icing over the cake and smoothen it out on the cake, then arrange the toasted hazelnut on the top of the cake and leave it in the fridge for the icing to set before finally serving.",
 	"imageURL": "https://imgur.com/YW14ElP.jpg"
 	},
 	{
 	"name": "Pear Tart",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "3 Tbsp Softened Butter \n3/4 Cup Caster Sugar, with an additional 2 Tbsp of Caster Sugar  \n3/4 Cup All-Purpose Flour \n1/3 Cup Chopped Walnuts \n16 Oz Cream Cheese \n2 Eggs \n1 Tsp Vanilla Extract \n15 Oz Canned Pears drained and sliced thinly \n1 1/4 Tsp Ground Cinnamon", 
+	"steps": "1. Heat oven to 210 Degrees. \n2. For the pastry base, beat 1/2 cup of caster sugar with the butter and 3/4 tsp of cinnamon until crumbly. \n3. Add in the flour and walnut and press the crumbs into a 9-in tart pan with a removable base. \n4. For the filling, mix the cream cheese and 1/4 cup of sugar together until smooth, then gradually add the eggs and vanilla in. \n5. Pour the mixture into the tart case and arrange the pears on the top of the cream cheese filling in a rosetta fashion before dusting the remaining sugar and cinnamon on the top to caramelize the pears. \n6. Bake the tart for 10 minutes before reducing the temperature to 170 degrees and leaving the tart in for another 40 minutes until the mixture sets and a skewer comes out clean..",
 	"imageURL": " https://imgur.com/lYcMJPL.jpg"	
 	},
 	{
 	"name": "Muffins",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "2 Eggs \n125 Ml Vegetable Oil \n250 Ml Skimmed milk  \n250g Caster Sugar \n400g Self-Raising Flour \n1 Tsp Salt \n50g Chocolate Chips \n50g Raisins", 
+	"steps": "1. Heat oven to 180 Degrees and grease two muffin trays. \n2. Add the oil and sugar and mix them, then add in the sugar and whisk till a smooth batter is obtained. \n3. Sift in the flour and fold in till batter is smooth. \n4. Separate the batter into two bowls, adding the chocolate chips into one bowl and the raisins into the other remaining bowl. \n5. Pour the batter into the muffin cases until 2/3 full and bake for 25-30 minutes until a skewer comes out clean. \n6. Note that the fillings could easily be tweaked to the taste buds of the maker, ingredients such as blueberries would work well too.",
 	"imageURL": "https://imgur.com/Cwou8vs.jpg"	
 	} ,
 	{
 	"name": "Kueh Salat (Local Nonya Kueh)",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "10 Eggs \n200g Caster sugar \n100g Pandan Juice \n600g Coconut Cream \n1/4 Tsp Pandan Paste \n5 Tsp Cornstarch \n30g Tapioca starch \n250g Glutinous Rice \n1-2 Pinches of Salt", 
+	"steps": "1. Cook the glutinous rice according to the instructions on the packaging of the rice. \n2. In a bowl, mix the eggs, pandan juice and paste, sugar as well as 400g of coconut cream and cook over a Bain Marie, whisking until the mixture is thickened. \n3. Leave the mixture to cool, then sieve the cornstarch and tapioca starch and mix. \n4. Mix the remaining 200g of coconut cream with the rice and season the rice with the salt. \n5. Press the rice layer into a square tray and add the kaya mixture over. \n6. Pour the coconut cream custard(Kaya) mixture over the rice layer and place it in the steamer for 40-45 minutes. \n7. Leave to cool fully before cutting as the dessert might crumble when it is cut whilst hot.",
 	"imageURL": "https://imgur.com/9UMA05G.jpg"	
 	},
 	{
 	"name": "Brown Sugar Cheesetart",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "8Oz Cream Cheese \n1/2 Cup Brown Sugar, with additional 1 Tbsp of brown sugar \6 Digestive Biscuits \n3 Tbsp Butter melted \n1 Egg", 
+	"steps": "1. Heat the oven to 180 degrees and crush the 6 Digestive biscuits and mix it with the melted butter to create a crumbly base. \n2. Press the crumbly base in a muffin tray to create the base of the tart . \n3. Mix the cream cheese and 1/2 cup sugar together and gradually incorporate the egg in and mix till a smooth mixture is obtained. \n4.Pour the mixture into the muffin tray with the biscuit base and leave in for 10 minutes. \n5. When the mixture is semi set, drizzle the remaining brown sugar over the top for the additional caramelizing effect. \n6. Cook for another 10 minutes, until a skewer comes out clean and let it cool before serving.",
 	"imageURL": "https://imgur.com/U5RA3HA.jpg"	
 	},
 	{
 	"name": "Chocolate Tart",
-	"ingredients": "1/2 cup heavy cream \n1/2 cup sugar \n3 gelatine leaves \n2 Tbsp Strawberry Compote \n1 Vanilla Bean Pod", 
-	"steps": "1. Soak gelatine leaves in cold water \n2. In a pot, mix the cream and sugar together and place it over low to medium heat. \n3. Add in the vanilla bean pod and cook it until the mixture is close to boiling. \n4. Remove from heat and mix in the drained gelatine leaves. \n5. Pour the mixture into individual cups and let them set in the fridge for at least 4 hours. \n6. Scoop in the strawberry compote and serve.",
+	"ingredients": "24 Oreo Cookies \n141 g Unsalted Butter \n170g Plain Chocolate \n170g Milk Chocolate \n1 Cup Heavy Cream", 
+	"steps": "1. Separate the biscuit and the cream of the oreo cookies. \n2. Crush the oreo biscuits in a bowl and mix in 85g of melted butter until a crumbly base is obtained.  \n3. Line the base of a tart pan with the oreo biscuit base. \n4. Place the chopped chocolates in a heatproof bowl. \n5. Bring the remaining 56g of butter and cream to a low boil and pour over the chocolate mixture. \n6. Stir until a smooth mixture is obtained and pour it into the tart base. \n7. Refrigerate until the tart is fully set before serving ",
 	"imageURL": " https://imgur.com/U5IrVnP.jpg"	
 	}
 	
